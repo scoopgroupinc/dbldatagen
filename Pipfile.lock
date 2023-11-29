@@ -578,11 +578,12 @@
         },
         "pydash": {
             "hashes": [
-                "sha256:0556062f6583c21fa70dd9a2c1a4e63bbe8cd54e14fecdfb579b46c36d93836f",
-                "sha256:a2e0c0900fc5a3cc16c9556d34d7e8a59caa9adebcf319876c9a3ccc35dc545f"
+                "sha256:88fef7abe6122293b7a8509e6d37989f39241971773d8ff30b1714875bae8947",
+                "sha256:fe53216f7517ccac981fbdd04be5142f2ab4a83bd10494f5a106a4ff9e714ccf"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==5.1.2"
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==6.0.0"
         },
         "pydata-sphinx-theme": {
             "hashes": [
