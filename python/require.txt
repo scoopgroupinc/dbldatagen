@@ -12,7 +12,7 @@ pyparsing==2.4.7
 jmespath==0.10.0
 
 # The following packages are required for development only
-wheel==0.38.1
+wheel==0.42.0
 setuptools==65.5.1
 bumpversion
 pytest
