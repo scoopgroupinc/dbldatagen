@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2edabefe329a742025f69a683518825319fc7ca9dffde7f7ffd448057c638c59"
+            "sha256": "b122cd2ee4fb52d375abee70ca86d564bd3d0cf825d8cea57ef6b5c24e8aa745"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1098,11 +1098,12 @@
         },
         "sphinx-markdown-builder": {
             "hashes": [
-                "sha256:41def076a9647b3e4412b92084a37f56fe933de62d294a59d148206049fd3f14",
-                "sha256:7bf84d0d3959e09f6aec68c63dac0e3a8cf942eb30d4fe94a23cf39e61f6d04a"
+                "sha256:59c8e841b56bbf04a2c11e1984f7258fa28a20c0257aa54ea3ae7a0013a27d4a",
+                "sha256:dae3184cfefdfe9ee1af69ae9e6e09cf2768f51afeb81ae1b3c219dbfdb33e97"
             ],
             "index": "pypi",
-            "version": "==0.5.4"
+            "markers": "python_version >= '3.7'",
+            "version": "==0.6.5"
         },
         "sphinxcontrib-applehelp": {
             "hashes": [
@@ -1158,6 +1159,14 @@
                 "sha256:d5558e0c25a4cb0853cddad3d77da9891a08cb85dd9f9f91b9f8cd66e511e695"
             ],
             "version": "==0.6.3"
+        },
+        "tabulate": {
+            "hashes": [
+                "sha256:0095b12bf5966de529c0feb1fa08671671b3368eec77d7ef7ab114be2c068b3c",
+                "sha256:024ca478df22e9340661486f85298cff5f6dcdba14f3813e8830015b9ed1948f"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.9.0"
         },
         "tinycss2": {
             "hashes": [
