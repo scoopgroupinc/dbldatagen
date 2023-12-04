@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b122cd2ee4fb52d375abee70ca86d564bd3d0cf825d8cea57ef6b5c24e8aa745"
+            "sha256": "2edabefe329a742025f69a683518825319fc7ca9dffde7f7ffd448057c638c59"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -316,11 +316,11 @@
         },
         "importlib-metadata": {
             "hashes": [
-                "sha256:3ebb78df84a805d7698245025b975d9d67053cd94c79245ba4b3eb694abe68bb",
-                "sha256:dbace7892d8c0c4ac1ad096662232f831d4e64f4c4545bd53016a3e9d4654743"
+                "sha256:7fc841f8b8332803464e5dc1c63a2e59121f46ca186c0e2e182e80bf8c1319f7",
+                "sha256:d97503976bb81f40a193d41ee6570868479c69d5068651eb039c40d850c59d67"
             ],
             "markers": "python_version < '3.10'",
-            "version": "==6.8.0"
+            "version": "==7.0.0"
         },
         "importlib-resources": {
             "hashes": [
@@ -736,11 +736,12 @@
         },
         "pydata-sphinx-theme": {
             "hashes": [
-                "sha256:32e0580ef985734d652eec2bf25e0995a330a9d4f76deaa353571ce8e180ab14",
-                "sha256:f0fee20dc33fa5efa6b9be57368be760d236d8b9c1486b14ad1d17b7e7e0db04"
+                "sha256:9f72015d9c572ea92e3007ab221a8325767c426783b6b9941813e65fa988dc90",
+                "sha256:fbcbb833a07d3ad8dd997dd40dc94da18d98b41c68123ab0182b58fe92271204"
             ],
             "index": "pypi",
-            "version": "==0.6.3"
+            "markers": "python_version >= '3.7'",
+            "version": "==0.8.0"
         },
         "pygments": {
             "hashes": [
